@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - PickUp
+  - Enemy
+  - Barrier
   layers:
   - Default
   - TransparentFX
@@ -47,6 +49,9 @@ TagManager:
     locked: 0
   - name: Pickups
     uniqueID: 456210293
+    locked: 0
+  - name: Enemies
+    uniqueID: 791937533
     locked: 0
   - name: Player
     uniqueID: 1359890971
